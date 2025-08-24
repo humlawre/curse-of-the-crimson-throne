@@ -1,4 +1,4 @@
 ---
 publish: "true"
 ---
-The Cerulean Society is Korvosa’s thieves’ guild, and it monitors, controls, or inf luences almost all illegal activities of any noticeable size in the city. More than a dozen gangs work the streets, Vaults, and Shingles of Korvosa, but most of them answer in some way to the Cerulean Society (or else do not survive long). Hastily hushed rumors put one of the noble houses as the de facto leadership behind the thieves’ guild.
+The Cerulean Society is Korvosa’s thieves’ guild, and it monitors, controls, or influences almost all illegal activities of any noticeable size in the city. More than a dozen gangs work the streets, Vaults, and Shingles of Korvosa, but most of them answer in some way to the Cerulean Society (or else do not survive long). Hastily hushed rumors put one of the noble houses as the de facto leadership behind the thieves’ guild.
