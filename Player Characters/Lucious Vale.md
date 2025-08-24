@@ -2,8 +2,9 @@
 tags:
   - pc
 status: Active
-portrait: "![[placeholder.png]]"
-description: 
+portrait: "![[Lucious Vale.png]]"
+iamge: "![[Lucious Vale.png]]"
+description: Cleric of Pharasma
 player: Greg
 campaign trait: "[[Love Lost]]"
 ---
