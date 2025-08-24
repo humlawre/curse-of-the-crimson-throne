@@ -1,5 +1,5 @@
 {
   "showSidebar": true
-  "contentInclude": ["/Player's Guide"],
-  "contentExclude": ["/"]  
+  "contentInclude": ["/Player's Guide", "/Player Characters"],
+  "contentExclude": ["/", "/Sessions", ]  
 }
