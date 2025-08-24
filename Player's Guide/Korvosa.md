@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+![[korvosa.png]]
+
 Like the people of any other city, Korvosans concern themselves more with the day-to-day particulars of living than with politics, history, or macroeconomics.
 
 Still, Korvosa has a few particular nuances that make it and its citizens unique. The following overview only begins to touch on what it means to be a Korvosan.
