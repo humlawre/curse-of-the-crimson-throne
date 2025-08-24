@@ -3,7 +3,7 @@ publish: "true"
 ---
 Buildings, infrastructure, and politics make a city livable (or intolerable, in some cases), but the people who live in a place truly make it a city.
 
-Barely more powerful than the lord magistrates who preceded them, the monarchs of Korvosa must share power with the strict governmental entities existant at the founding of the monarchy. The command King Erodred II exerts over the city is constantly checked by the arbiters, magistrates, and nobles, the city’s most politically powerful groups. More than judges, the arbiters not only determine the guilt or innocence of defendants in a court of law, but also have legislative oversight. No one exactly knows what the 23 magistrates or their staffs do, but most Korvosans suspect the entire purpose of city hall is to waste the time and money of the city’s people. Finally, two overlapping divisions define Korvosa’s aristocracy: the five most powerful families bear the coveted title of Great Houses, giving their members special privileges within the city, and 21 noble houses make up the Dock Families, allowing them to charge berthing fees on one or more docks in the city.
+Barely more powerful than the lord magistrates who preceded them, the monarchs of [[Korvosa]] must share power with the strict governmental entities existant at the founding of the monarchy. The command King Erodred II exerts over the city is constantly checked by the arbiters, magistrates, and nobles, the city’s most politically powerful groups. More than judges, the arbiters not only determine the guilt or innocence of defendants in a court of law, but also have legislative oversight. No one exactly knows what the 23 magistrates or their staffs do, but most Korvosans suspect the entire purpose of city hall is to waste the time and money of the city’s people. Finally, two overlapping divisions define Korvosa’s aristocracy: the five most powerful families bear the coveted title of Great Houses, giving their members special privileges within the city, and 21 noble houses make up the Dock Families, allowing them to charge berthing fees on one or more docks in the city.
 
 ## Notable Korvosans
 
@@ -31,6 +31,7 @@ at Citadel Vraid.
 **Syl Gar:** If Garrick Tann is one of Korvosa’s most hated officials, Magistrate of Expenditures Syl Gar is one of the most loved—his responsibility is to see to it that city taxes are spent properly and efficiently on public works.
 
 **Zenobia Zenderholm:** Known as the Hanging Judge, Zenobia is Korvosa’s senior arbiter. Her reputation is justifiably fearsome among Korvosa’s criminals.
+
 ## Citizens of Note
 From the lofty perches of the city’s aristocracy down to the market’s entertainers, merchants, and criminals, many of Korvosa’s citizens are well-known figures.
 
