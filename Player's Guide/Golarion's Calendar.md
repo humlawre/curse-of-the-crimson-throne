@@ -4,7 +4,6 @@ publish: "true"
 Time travels on Golarion much as it does here on our own Earth. Sixty seconds form a minute, sixty minutes create an hour, and twenty-four hours make a day. The people of Golarion measure time much like we do as well, with seven days to a week and twelve 30-day months to a year. Years are marked since the founding of the last great empire by Aroden, the Last Man. Although the empire has collapsed, its calendar remains in use to this day. At the start of Curse of the Crimson Throne, the date is 4708 ar (Absalom Reckoning).
 
 ## Days of the Week
-
 The days of the week are as follows. Each day has a general purpose that most people in the Inner Sea region follow.
 
 |     |     |
