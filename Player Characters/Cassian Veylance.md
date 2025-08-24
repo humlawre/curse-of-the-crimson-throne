@@ -3,7 +3,7 @@ tags:
   - pc
 status: Active
 portrait: "![[Cassian Veylance.png]]"
-image: '"/Images/Portraits/Cassian Veylance.png"'
+image: https://flowershow.app/_r/-/assets/header-image.png
 description: Human Swashbuckler
 player: Jeremy
 campaign trait: "[[Framed]]"
