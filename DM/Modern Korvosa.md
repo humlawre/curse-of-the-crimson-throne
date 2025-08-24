@@ -1,0 +1,13 @@
+Those who live in Korvosa both respect and admire ostentatious displays of wealth, power, or knowledge. They consider confidence and competence the greatest of assets, and they deride or heckle those who display weakness, indecisiveness, or lack of ability. Korvosans are quick to judge and slow to forgive. They like to capitalize words, and many feel this minor trait gives their works and creations an air of greatness and importance.
+
+In addition to power, Korvosans love predictability. They like to regulate their lives, creating strict regimens for themselves that they then slavishly follow. Upsetting a Korvosan’s routine can ruin his entire day and is likely to make him cranky and belligerent. To this end, Korvosa militantly enforces its laws (which often have harsh punishments far in excess of those of other nonevil governments) and rewards those who play by the rules.
+
+![[korvosa-coat-of-arms.png|400]]
+
+Regulation and law dominate daily life in Korvosa. The city’s charter, an officially sanctioned document created by Emperor Halleck IV of Cheliax in 4406 ar, bears 247 amendments. These amendments add to and complicate the city’s myriad laws (which no leader can modify, except by additional amendment) and are considered as binding and official as the charter itself. In addition, a thick, multivolume body of work spells out Korvosa’s many other regulations, as well as the punishments for violating them. The complexity of Korvosan law is in some ways akin to the language of an infernal contract—overly convoluted and easy for a person in power to abuse for their own needs.
+
+By charter amendment, Korvosa does not allow merchants, laborers, or artisans to form guilds (yet it ironically does allow for a thieves’ guild—currently the Cerulean Society). This practice prevents these groups from price-fixing and allows the city to maintain control over much of the labor force. Most workers within the city are self-employed or work for a master to whom they apprenticed in their youths. The city relies on these cottage industries and the skilled workers who make them profitable, so of course it has one entire volume of laws and regulations devoted to the protection and rights of workers. Thanks to the Korvosan drive to succeed, though, the city’s merchants also do well for themselves.
+
+These mind-sets go a long way toward giving a corrupt ruler the exact tools she needs to seize control of a city, and make it more important than ever for a band of heroes to rise and stand against such abuse of power.
+
+![[korvosa-map.png]]
