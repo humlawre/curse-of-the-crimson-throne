@@ -2,7 +2,8 @@
 tags:
   - pc
 status: Active
-portrait: "![[placeholder.png]]"
+portrait: "![[Cassian Veylance.png]]"
+image: "![[Cassian Veylance.png]]"
 description: Human Swashbuckler
 player: Jeremy
 campaign trait: "[[Framed]]"
