@@ -3,7 +3,7 @@ tags:
   - pc
 status: Active
 portrait: "![[Cassian Veylance.png]]"
-image: Images/Portraits/Cassian Veylance.png
+image: https://my.flowershow.app/@humlawre/curse-of-the-crimson-throne/_r/-/Images/Portraits/Cassian%20Veylance.png
 description: Human Swashbuckler
 player: Jeremy
 campaign trait: "[[Framed]]"
