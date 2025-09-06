@@ -2,7 +2,7 @@
     "showSidebar": true,
     "nav": 
     {
-      "logo": "Images/discord-icon.jpeg",
+      "logo": "/Images/discord-icon.jpeg",
       "title": "Curse of the Crimson Throne"
     },
     "contentExclude": [ "/NPCs", "/DM", "/Sessions" ]
