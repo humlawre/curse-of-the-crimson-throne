@@ -1,2 +1,2 @@
-Welcome to the Wiki of Curse of the Crimson Throne
-![[discord-icon.jpg]]
+# Curse of the Crimson Throne
+Welcome to the campaign's Wiki.
