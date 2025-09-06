@@ -3,7 +3,6 @@ tags:
   - pc
 status: Active
 portrait: "![[Lucious Vale.png]]"
-iamge: "![[Lucious Vale.png]]"
 description: Cleric of Pharasma
 player: Greg
 campaign trait: "[[Love Lost]]"
@@ -12,4 +11,4 @@ Abandoned at a young age under unknown and desperate circumstances, Lucious was 
 
 Kate's disappearance is linked to [[Gaedren Lamm]].
 
-![[Lucious Vale.png]]
+![[Lucious Vale.png|400]]
