@@ -2,7 +2,7 @@
     "showSidebar": true,
     "nav": 
     {
-      "logo": "/Images/discord-icon.jpg",
+      "logo": "https://my.flowershow.app/@humlawre/curse-of-the-crimson-throne/_r/-/Images/discord-icon.jpg",
       "title": "Curse of the Crimson Throne"
     },
     "contentExclude": [ "/NPCs", "/DM", "/Sessions" ]
