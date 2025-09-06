@@ -1,6 +1,3 @@
----
-publish: "true"
----
 Three military groups police and protect Korvosa: the Korvosan Guard, the Order of the Nail Hellknights, and the Sable Company. Each one focuses its efforts in different areas and interacts with the monarchy in its own unique way.
 
 The Korvosan Guard serves the city of Korvosa first, the government second, and the church of Abadar third. It works closely with the city leaders and the high priest of Abadar to maintain order in the city, acting most often like a police force but turning into a military organization whenever the city is threatened by external forces.
