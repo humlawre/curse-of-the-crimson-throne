@@ -5,5 +5,5 @@
       "logo": "Images/discord-icon.jpeg",
       "title": "Curse of the Crimson Throne"
     },
-    "contentExclude": [ "/NPCs", DM/ Sessions" ]
+    "contentExclude": [ "/NPCs", "/DM", "/Sessions" ]
 }
