@@ -3,7 +3,7 @@ tags:
   - pc
 status: Active
 portrait: "![[Riven Drex Portrait.png]]"
-image: '"/Images/Portraits/Riven Drex Portrait.png"'
+image: '"https://my.flowershow.app/@humlawre/curse-of-the-crimson-throne/_r/-/Images/Portraits/Riven%20Drex%20Portrait.png"'
 description: Male Elf Magus
 player: Fred
 campaign trait: "[[Unhappy Childhood]]"
