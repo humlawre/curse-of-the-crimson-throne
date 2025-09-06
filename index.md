@@ -1,0 +1,1 @@
+Welcome to the Wiki of Curse of the Crimson Throne
