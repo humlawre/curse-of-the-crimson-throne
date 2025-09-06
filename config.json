@@ -1,3 +1,8 @@
 {
-  "showSidebar": true,
+    "showSidebar": true,
+    "nav": 
+    {
+      "logo": "Images/discord-icon.jpeg",
+      "title": "Curse of the Crimson Throne"
+    }
 }
