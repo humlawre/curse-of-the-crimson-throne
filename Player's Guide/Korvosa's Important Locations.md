@@ -1,6 +1,3 @@
----
-publish: "true"
----
 Five major landmarks give Korvosa a distinctive skyline: the ancient and massive structures of Castle Korvosa, Pillar Wall, and Gatefoot, as well as the more practically sized Great Tower and Hall of Summoning, which have stood for less than 50 years. In addition to these landmarks, several locations unique to the city bear mention.
 
 **The Acadamae:** Shrouded in secrecy, the campus’s 30-foot-high walls only barely conceal the grand Hall of Summoning. Visitors and residents cannot hope to ignore the presence of the Acadamae, and since very few people unconnected with the college know what happens within it, the place births abundant (and sometimes ludicrous) rumors.
