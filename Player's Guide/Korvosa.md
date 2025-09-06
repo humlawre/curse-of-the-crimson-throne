@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ![[korvosa.png]]
 
 Like the people of any other city, Korvosans concern themselves more with the day-to-day particulars of living than with politics, history, or macroeconomics.
