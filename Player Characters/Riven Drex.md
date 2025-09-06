@@ -3,7 +3,7 @@ tags:
   - pc
 status: Active
 portrait: "![[Riven Drex Portrait.png]]"
-image: '"/Images/Portraits/Riven Drex Portrait.png"'
+image: "![[Riven Drex Portrait.png]]"
 description: Male Elf Magus
 player: Fred
 campaign trait: "[[Unhappy Childhood]]"
