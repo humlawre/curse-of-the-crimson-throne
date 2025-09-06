@@ -1,6 +1,3 @@
----
-publish: "true"
----
 The city of Korvosa wears its Chelaxian heritage proudly on every building, tower, and rooftop. As the oldest human settlement in Varisia (a claim frequently challenged by Kaer Maga), Korvosa considers itself the founding seat of civilization in an otherwise lawless region. Thanks to it and the spread of its people, Varisia has become a relatively safe place to live.
 
 Korvosa sits at the end of Conqueror’s Bay, where the Jeggare River meets the sea. The city fills the spit of land formed by two sharp turns in the river, covers Endrin Isle (which splits the river at its mouth), and spreads to a few outlying areas on the far shore of the Jeggare. It stands on two hills: Garrison Hill on Endrin Isle and Citadel Hill on the mainland. The Narrows of Saint Alika separates Endrin Isle from the shore.
