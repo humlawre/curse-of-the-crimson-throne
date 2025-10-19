@@ -192,7 +192,23 @@ She produces a harrow deck from a pocket, idly shuffling the cards. Her skill wi
 
 24 Riven
 22 Cassian
-21 Giggles 21
-21 Hookshanks 5/16
-17 Kids x 4
 15 Lucious
+21 Giggles 21
+21 Hookshanks 0/16
+17 Kids x 4
+
+23 riven
+22 lucious
+18 spider
+10 cassian
+
+22 Riven
+20 Lucious
+18 Cassian
+17 Gaedren  2/20
+croc 8 00/22
+
+18 Cassian
+17 Riven
+16 Giggles
+11 Lucious
